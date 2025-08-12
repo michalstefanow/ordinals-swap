@@ -22,7 +22,7 @@ A TypeScript-based platform for swapping Bitcoin Ordinals tokens.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ordinals-swap.git
+git clone https://github.com/michalstefanow/ordinals-swap.git
 cd ordinals-swap
 ```
 
@@ -106,6 +106,7 @@ src/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Author
+## 👥 Contact
+- Telegram [@michalstefanow](https://t.me/mylord1_1)
+- Twitter [@michalstefanow](https://x.com/michalstefanow)
 
-Your Name - [GitHub](https://github.com/yourusername) #
